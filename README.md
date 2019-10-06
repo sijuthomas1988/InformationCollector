@@ -61,7 +61,6 @@ There is only one endpoint as it is still in development phase. But feel free to
 http://localhost:8080/infoApp/v1/getInfo/{input}
 
   Where you can use any word or character to fetch the results by appending to the word {input} in the url.
-## Dependencies
 
 ## Support & Ownership
 
