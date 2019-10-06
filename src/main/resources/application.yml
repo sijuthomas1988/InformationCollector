@@ -1,0 +1,37 @@
+spring:
+  application:
+    name: InformationApi Service
+server:
+  servlet:
+    context-path: /infoApp
+
+#Health and Metrics
+management:
+  endpoints:
+    web:
+      exposure:
+        include: info, health, metrics
+
+#ApiConnection Configuration
+apiconn:
+  googleApiUrl: "https://www.googleapis.com/books/v1/volumes"
+  appleApiUrl:  "http://itunes.apple.com/search"
+  googleApilimit: "5"
+  appleApilimit: "5"
+
+#JsonAttributes For Google Api and Apple Api
+jsonapiconf:
+  googleapiroot: items
+  googleapipath:
+    - volumeInfo
+  googleapiattributes:
+    - title
+    - printType
+    - authors
+
+  appleapiroot: results
+  appleapipath:
+  appleapiattributes:
+    - kind
+    - trackName
+    - artistName

@@ -1,0 +1,369 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 2089,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "xVtIY_eJcp0C",
+      "etag": "Pi6Zmu94i5U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xVtIY_eJcp0C",
+      "volumeInfo": {
+        "title": "A Viola Da Gamba Miscellanea",
+        "subtitle": "Articles from and Inspired by Viol Symposiums Organized by the Ensemble Baroque de Limoges, France",
+        "authors": [
+          "Susan Orlando"
+        ],
+        "publisher": "Presses Univ. Limoges",
+        "publishedDate": "2005",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "284287353X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9782842873530"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "categories": [
+          "Viola da gamba"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xVtIY_eJcp0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xVtIY_eJcp0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.my/books?id=xVtIY_eJcp0C&pg=PA63&dq=da&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com.my/books?id=xVtIY_eJcp0C&dq=da&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Viola_Da_Gamba_Miscellanea.html?hl=&id=xVtIY_eJcp0C"
+      },
+      "saleInfo": {
+        "country": "MY",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MY",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xVtIY_eJcp0C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>da</b>. Gamba. Richard G. KlNG When Christophe Coin first asked me to give a <br>\npaper on the subject of Handel and the viol I did not think there would be much to <br>\nsay. However, as I began to explore the topic I realized that for many violistes <br>\nthere&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QAcJSXpYoucC",
+      "etag": "gnQdP+GEg18",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QAcJSXpYoucC",
+      "volumeInfo": {
+        "title": "Pidgin to Da Max",
+        "authors": [
+          "Douglas Simonson",
+          "Pat Sasaki"
+        ],
+        "publisher": "Bess Press",
+        "publishedDate": "2005",
+        "description": "An alphabetical guide to words and phrases in Hawaiian Pidgin English, with comic strips illustrating usage.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1573062502"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781573062503"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Humor"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QAcJSXpYoucC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QAcJSXpYoucC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.my/books?id=QAcJSXpYoucC&pg=PP78&dq=da&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com.my/books?id=QAcJSXpYoucC&dq=da&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pidgin_to_Da_Max.html?hl=&id=QAcJSXpYoucC"
+      },
+      "saleInfo": {
+        "country": "MY",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MY",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QAcJSXpYoucC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Great, hot, righteous. &quot;Wow, <b>da</b> surf so INNAHS today!&quot; INSIDE (een SIDE) In, into<br>\n. Haole: &quot;Put two potatoes in the salad.&quot; Pidgin: &quot;Try put two potatoes eenside <b>da</b> <br>\nsalad. INTENSE Heavy-duty to <b>da</b> max. ITAI (ee TIE) Soah. INTENSE JAM UP 1."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fq8IHuJIKmoC",
+      "etag": "5+P1d0oMYZQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fq8IHuJIKmoC",
+      "volumeInfo": {
+        "title": "Leonardo Da Vinci, 1452-1519",
+        "authors": [
+          "Frank Zöllner"
+        ],
+        "publisher": "Taschen",
+        "publishedDate": "2000",
+        "description": "\"One of the most accomplished human beings who ever lived, Leonardo remains the quintessential Renaissance genius.\" Creator of the world's most famous painting, this scientist, artist, philosopher, inventor, builder, and mechanic epitomized the great flowering of human consciousness that marks his era. And yet, so wide-ranging and prolific were his interests that he brought hardly any major undertaking to a final end. Leonardo also advanced numerous artistic techniques, and implicated a complex psychology into his paintings of \"The Last Supper\" and the enigmatic \"La Gioconda, \" or \"Mona Lisa.\" Famous horseman, rival to Michelangelo, military engineer to the Borgias, he died in 1519 in a chateau given to him by Francis I, King of France. Not bad for the illegitimate son of a Florentine notary.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3822859796"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783822859797"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 96,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fq8IHuJIKmoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fq8IHuJIKmoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.my/books?id=fq8IHuJIKmoC&pg=PA7&dq=da&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com.my/books?id=fq8IHuJIKmoC&dq=da&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Leonardo_Da_Vinci_1452_1519.html?hl=&id=fq8IHuJIKmoC"
+      },
+      "saleInfo": {
+        "country": "MY",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MY",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fq8IHuJIKmoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Apprenticeship and Youth in Florence 1469–1482 Remarkable, extraordinary, <br>\nalmost always favourable – that is the picture of Leonardo <b>da</b> Vinci handed down <br>\nby the writers and critics of the past. They describe a multi-talented, endearing,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BFiASi1JpisC",
+      "etag": "1WF1xUaXTUk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BFiASi1JpisC",
+      "volumeInfo": {
+        "title": "Da Kine Dictionary",
+        "subtitle": "Da Hawai'i Community Pidgin Dictionary Projeck",
+        "authors": [
+          "Lee A. Tonouchi"
+        ],
+        "publisher": "Bess Press",
+        "publishedDate": "2005",
+        "description": "Because Pidgin, like other languages, is constantly evolving, “Da Pidgin Guerrilla” asked people in Hawai'i and beyond to contribute their favorite Pidgin words, with definitions, sentences, and origins The result is this illustrated collection, which also reveals where (and when) contributors “wen grad.”",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1573061360"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781573061360"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 101,
+        "printType": "BOOK",
+        "categories": [
+          "Reference"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BFiASi1JpisC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BFiASi1JpisC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.my/books?id=BFiASi1JpisC&pg=PR5&dq=da&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com.my/books?id=BFiASi1JpisC&dq=da&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Da_Kine_Dictionary.html?hl=&id=BFiASi1JpisC"
+      },
+      "saleInfo": {
+        "country": "MY",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MY",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BFiASi1JpisC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Lotta <b>da</b> private school peoples wuz EXTRA proud I tink so cuz dey wrote little <br>\nnotes like “Punahou get Pidgin too!” Get <b>da</b> myth dat Pidgin is only in Hawai&#39;i. But <br>\nfrom <b>da</b> submissions can see dat Pidgin get wings and stay migrating all ova."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8wqMWl6sSwwC",
+      "etag": "i9DYIDCYIk4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8wqMWl6sSwwC",
+      "volumeInfo": {
+        "title": "The Career and Legend of Vasco Da Gama",
+        "authors": [
+          "Sanjay Subrahmanyam"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "1998-10-29",
+        "description": "Vasco da Gama (?1469-1524) is well known as one of a generation of discoverers, along with Magellan, Cabral, and Columbus. Yet little is known about his life, or about the context within which he 'discovered' the all-sea route to India in 1497-99. This book, based on a mass of published and unpublished sources in Portuguese and other languages, delineates Gama's career and social context, focusing on the delicate balance between 'career' and 'legend'. The book addresses broad questions of myth-building and nationalism, while never losing sight of Gama himself.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0521646294"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521646291"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 428,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.1.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8wqMWl6sSwwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8wqMWl6sSwwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com.my/books?id=8wqMWl6sSwwC&pg=PA22&dq=da&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com.my/books?id=8wqMWl6sSwwC&dq=da&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Career_and_Legend_of_Vasco_Da_Gama.html?hl=&id=8wqMWl6sSwwC"
+      },
+      "saleInfo": {
+        "country": "MY",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "MY",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8wqMWl6sSwwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Extrapolating from odd and obscure phrases in chronicles and letters, and <br>\nmaking arguments from silence (i.e. the &#39;significant&#39; absence of documents) <br>\nArmando Cortesao suggested that the &#39;mystery of Vasco <b>da</b> Gama&#39; could be <br>\nsolved if one&nbsp;..."
+      }
+    }
+  ]
+}
