@@ -16,7 +16,7 @@ management:
 apiconn:
   googleApiUrl: "https://www.googleapis.com/books/v1/volumes"
   appleApiUrl:  "http://itunes.apple.com/search"
-  googleApilimit:
+  googleApilimit: "5"
   appleApilimit: "5"
 
 #JsonAttributes For Google Api and Apple Api
