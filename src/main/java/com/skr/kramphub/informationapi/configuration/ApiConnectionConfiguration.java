@@ -3,6 +3,9 @@ package com.skr.kramphub.informationapi.configuration;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import javax.annotation.PostConstruct;
 
 /**
  * Class that defines configuration for api calls
@@ -12,6 +15,10 @@ import org.springframework.context.annotation.Configuration;
 @EnableConfigurationProperties
 public class ApiConnectionConfiguration {
 
+    private static final String GOOGLEAPI_DEFAULT_URL = "https://www.googleapis.com/books/v1/volumes";
+    private static final String APPLEAPI_DEFAULT_URL = "http://itunes.apple.com/search";
+    private static final String API_LIMIT = "5";
+
     /** Url to call google api*/
     private String googleApiUrl;
     /** Url to call apple api */
@@ -20,6 +27,25 @@ public class ApiConnectionConfiguration {
     private String googleApilimit;
     /** Limit of results that can be fetched from api api */
     private String appleApilimit;
+
+    /**
+     * Post Construct method to set default values
+     */
+    @PostConstruct
+    public void init() {
+        if (googleApilimit == null || googleApilimit.isEmpty()) {
+            this.googleApilimit = API_LIMIT;
+        }
+        if(appleApilimit == null || appleApilimit.isEmpty()) {
+            this.appleApilimit = API_LIMIT;
+        }
+        if(googleApiUrl == null || googleApiUrl.isEmpty()) {
+            this.googleApiUrl = GOOGLEAPI_DEFAULT_URL;
+        }
+        if(appleApiUrl == null || appleApiUrl.isEmpty()) {
+            this.appleApiUrl = APPLEAPI_DEFAULT_URL;
+        }
+    }
 
     /**
      * @return google api url
