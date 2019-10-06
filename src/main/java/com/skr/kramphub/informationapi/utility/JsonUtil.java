@@ -1,4 +1,4 @@
-package com.skr.kramphub.informationapi.Utility;
+package com.skr.kramphub.informationapi.utility;
 
 import org.json.JSONArray;
 import org.json.JSONObject;

@@ -1,11 +1,9 @@
-package com.skr.kramphub.informationapi.Utility;
+package com.skr.kramphub.informationapi.utility;
 
 import org.apache.commons.io.IOUtils;
 import org.json.JSONException;
 import org.junit.Test;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;

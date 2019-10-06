@@ -1,7 +1,7 @@
 package com.skr.kramphub.informationapi.service.implementation;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.skr.kramphub.informationapi.Utility.JsonUtil;
+import com.skr.kramphub.informationapi.utility.JsonUtil;
 import com.skr.kramphub.informationapi.configuration.ApiConnectionConfiguration;
 import com.skr.kramphub.informationapi.configuration.ApiJsonConfiguration;
 import com.skr.kramphub.informationapi.exception.ApiException;
